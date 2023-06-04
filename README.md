@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/9403eya2iisgddve?svg=true)](https://ci.appveyor.com/project/Anna7682/ahj-diploma-chaos-organizer-f-master)
+
+
 # Дипломное задание к курсу «Продвинутый JavaScript в браузере». Chaos Organizer
 ---
 
