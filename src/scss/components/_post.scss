@@ -1,0 +1,27 @@
+.post{
+  display: inline-block;
+  opacity: 0;
+  padding: 0.25rem;
+  margin-bottom: 1rem;
+  background: #fff;
+  border-radius: 3.5px;
+  transition: opacity 0.3s linear, height 0.3s linear;
+
+  &.host {
+    align-self: flex-end;
+  }
+
+  .content{
+    margin-bottom: 0.5rem;
+  }
+
+  .datetime {
+    font-size: 0.8rem;
+    color: $grey-200;
+    text-align: right;
+  }
+
+  &.show {
+    opacity: 1;
+  }
+}
