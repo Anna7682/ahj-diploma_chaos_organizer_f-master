@@ -14,7 +14,7 @@ function fetcher(options) {
     }
   }
   // const URL = 'http://localhost:7070';
-  const URL = 'https://errand-ahj-diploma.herokuapp.com/';
+  const URL = 'https://ahj-diploma.onrender.com';
   const requestUrl = `${URL}/${options.query}`;
   loader.start();
 
